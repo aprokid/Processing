@@ -30,8 +30,8 @@ class Distance:
         return d
         
         
-#dis = Distance(0, 2, 4, 0)
-dis = Distance(4, 0, 0, 2)
+dis = Distance(0, 2, 4, 0)
+#dis = Distance(4, 0, 0, 2)
 print(dis._euclidean_distance())
 print(dis._city_block())
 print(dis._chessboard_distance())
