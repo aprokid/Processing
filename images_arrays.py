@@ -1,3 +1,4 @@
+# recommend to use .ipynb
 # import useful library
 import numpy as np
 from skimage import io
